@@ -1,0 +1,107 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4">
+  <diagram id="EPnICu6wofdyTL7_I-YK" name="요구사항명세서">
+    <mxGraphModel dx="1678" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O8KLrq56NzC8HY_zjt_--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="730" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-1" value="&lt;div&gt;&amp;lt;&amp;lt;유스케이스 명세서&amp;gt;&amp;gt;&lt;/div&gt;유스케이스명 : 대구특별시 자유게시판 게시글 등록" style="shape=table;startSize=40;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="680" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=default;verticalAlign=middle;fontStyle=0" parent="PGcAvko0GGr-xwm2Tnm8-1" vertex="1">
+          <mxGeometry y="40" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-3" value="목표" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-2" vertex="1">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-4" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;회원이&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; font-weight: 400;&quot;&gt;시스템을 통해 자유게시판에 게시글을 작성, 등록한다&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-2" vertex="1">
+          <mxGeometry x="60" width="620" height="30" as="geometry">
+            <mxRectangle width="620" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="PGcAvko0GGr-xwm2Tnm8-1" vertex="1">
+          <mxGeometry y="70" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-6" value="엑터" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-5" vertex="1">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-7" value="회원" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-5" vertex="1">
+          <mxGeometry x="60" width="620" height="30" as="geometry">
+            <mxRectangle width="620" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="PGcAvko0GGr-xwm2Tnm8-1" vertex="1">
+          <mxGeometry y="100" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-9" value="사전 조건" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-8" vertex="1">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-10" value="메인페이지에서 자유게시판 버튼을 클릭하여 자유게시판으로 이동한다" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-8" vertex="1">
+          <mxGeometry x="60" width="620" height="30" as="geometry">
+            <mxRectangle width="620" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="PGcAvko0GGr-xwm2Tnm8-1" vertex="1">
+          <mxGeometry y="130" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-12" value="사후 처리" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-11" vertex="1">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-13" value="자유게시판에 게시글이 업로드되고 게시글 목록에서 확인할 수 있다" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-11" vertex="1">
+          <mxGeometry x="60" width="620" height="30" as="geometry">
+            <mxRectangle width="620" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="PGcAvko0GGr-xwm2Tnm8-1" vertex="1">
+          <mxGeometry y="160" width="680" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-15" value="기본흐름" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-14" vertex="1">
+          <mxGeometry width="60" height="250" as="geometry">
+            <mxRectangle width="60" height="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-16" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;1 회원은 메인페이지에서 자유게시판 버튼을 누른다&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;2 시스템은 사용자를 자유게시판으로 이동한다&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;3 시스템은 사용자가 보는 페이지에 자유게시판 정보를 활성화한다&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;4 회원은 글쓰기 버튼을 클릭한다&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;5 시스템은 사용자가 보는 페이지에 게시글 입력 창을 활성화한다&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;6 회원은 게시글 내용을 입력하고 등록 버튼을 누른다&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;7 시스템은 회원이 작성한 게시글을 자유게시판 목록에 업로드한다&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;8 시스템은 회원을 자유게시판 페이지로 이동시킨다&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-14" vertex="1">
+          <mxGeometry x="60" width="620" height="250" as="geometry">
+            <mxRectangle width="620" height="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="PGcAvko0GGr-xwm2Tnm8-1" vertex="1">
+          <mxGeometry y="410" width="680" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-18" value="대안흐름" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-17" vertex="1">
+          <mxGeometry width="60" height="90" as="geometry">
+            <mxRectangle width="60" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-19" value="&lt;div&gt;- 자유게시판 페이지에서 홈 버튼을 클릭하면 메인 화면으로 이동&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 게시글 등록 페이지에서 취소 버튼을 클릭하면 자유게시판 페이지로&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;이동&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-17" vertex="1">
+          <mxGeometry x="60" width="620" height="90" as="geometry">
+            <mxRectangle width="620" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="PGcAvko0GGr-xwm2Tnm8-1" vertex="1">
+          <mxGeometry y="500" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-21" value="예외흐름" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-20" vertex="1">
+          <mxGeometry width="60" height="160" as="geometry">
+            <mxRectangle width="60" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGcAvko0GGr-xwm2Tnm8-22" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4a 로그인을 하지 않고 글쓰기 버튼을 클릭한 경우&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;u&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;시스템은 &#39;로그인 후 자유게시판 이용이 가능 합니다.&#39; 라는 메시지를 사용자에게 전달&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;6a 게시글에 내용을 입력하지 않고 등록 버튼을 클릭한 경우&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;u&gt;시스템은 &#39;최소 100글자 이상 입력하여 주십시오&#39; 라는 메시지를 회원에게 전달&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;6b 게시글에 욕설, 비속어를 포함하여 등록 버튼을 클릭한 경우&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;u&gt;시스템은 &#39;욕설, 비속어가 포함된 내용은 등록할 수 없습니다&#39; 라는 메시지를 회원에게 전달&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" parent="PGcAvko0GGr-xwm2Tnm8-20" vertex="1">
+          <mxGeometry x="60" width="620" height="160" as="geometry">
+            <mxRectangle width="620" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
